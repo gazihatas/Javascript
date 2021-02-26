@@ -24,6 +24,7 @@ console.log(metinOlarakYas * 10);
 */
 
 //Arttırma azaltma Operatörleri
+/*
 sayi1 = sayi1 + 1;
 sayi1++;
 ++sayi1;
@@ -38,3 +39,9 @@ console.log("Sayi 2 :" +sayi2);
 let sayi3 = 20;
 console.log(++sayi3);
 console.log(sayi3);
+*/
+
+//Aritmatik atama operatörleri
+// +=, -=, *=, /=, %=
+let sayi4 = 10;
+let sayi5 = 9;
